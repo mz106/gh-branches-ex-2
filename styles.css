@@ -21,7 +21,7 @@
 
 .section-bottom-footer {
     height: 30vh;
-    background: yellow;
+    background: #aaaaaa;
 }
 
 /* =================== Header (including nav) ================== */
@@ -45,11 +45,13 @@
 }
 
 .footer-nav {
+    font-size: 30px;
 
 }
 
 .footer-nav-ul {
-
+    margin-left: 15px;
+    padding-top: 10px;
 }
 
 /* =================== Home (index.html) ================== */
