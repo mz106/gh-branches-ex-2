@@ -46,13 +46,16 @@
 
 .footer-nav {
     font-size: 30px;
-
 }
 
 .footer-nav-ul {
     margin-left: 15px;
     padding-top: 10px;
-    color: yellow;
+    color: black;
+}
+.footer-nav-ul ol {
+    font-size: 20px;
+    color: black;
 }
 
 /* =================== Home (index.html) ================== */
