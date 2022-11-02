@@ -75,9 +75,10 @@
 /* =================== Contact ================== */
 
 .container-contact-subtitle {
-
+    padding: 5%;
+    text-align: center;
 }
 
 .container-contact-form {
-    
+    background-color: green;
 }
