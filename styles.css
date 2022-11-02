@@ -65,10 +65,14 @@
 /* =================== About ================== */
 
 .container-subtitle {
-
-}
+padding: 20px;
+flex: display;}
 
 .container-about-content {
+    padding: 20px;
+    margin: 0px;
+    
+
     
 }
 
