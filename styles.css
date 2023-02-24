@@ -128,9 +128,15 @@ a {
 /* =================== Contact ================== */
 
 .container-contact-subtitle {
-
+    color:darkred;
+    font-size: 40px;
+    font-style: italic;
 }
 
 .container-contact-form {
-    
+    background-color: greenyellow;
+    color: darkgreen;
+    border: 5px, double, burlywood;
+    display: flex;
+    justify-items: center;
 }
